@@ -16,7 +16,6 @@
 	//https://github.com/vscode-icons/vscode-icons/wiki/FineTuning
 	"vsicons.presets.hideExplorerArrows": true,
 	"vsicons.associations.folders": [	//https://github.com/vscode-icons/vscode-icons/wiki/ListOfFolders
-		{ "icon": "images", "extensions": ["vsicons-custom-icons"] }
 	],
 	"vsicons.associations.files": [ 	//https://github.com/vscode-icons/vscode-icons/wiki/ListOfFiles
 		{ "icon": "vscode", "extensions": ["settings.json", "extensions.json"], "filename": true },
