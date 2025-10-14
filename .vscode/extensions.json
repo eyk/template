@@ -1,6 +1,7 @@
 {
 	"recommendations": [
-		"vscode-icons-team.vscode-icons",
+		"pkief.material-icon-theme"
+
 	],
 	"unwantedRecommendations": [
 
