@@ -1,8 +1,6 @@
 {
 
-	"files.exclude": {
-		"**/.vagrant": true,
-	},
+	"files.exclude": {},
 	"files.watcherExclude": {},
 	"files.trimTrailingWhitespace": true,
 
@@ -10,16 +8,8 @@
 
 	"workbench.startupEditor": "readme", //Show README.md on startup
 
-	"editor.wordBasedSuggestions": false,
+	"editor.wordBasedSuggestions": "off",
 	"editor.insertSpaces": false,
-
-	//https://github.com/vscode-icons/vscode-icons/wiki/FineTuning
-	"vsicons.presets.hideExplorerArrows": true,
-	"vsicons.associations.folders": [	//https://github.com/vscode-icons/vscode-icons/wiki/ListOfFolders
-	],
-	"vsicons.associations.files": [ 	//https://github.com/vscode-icons/vscode-icons/wiki/ListOfFiles
-		{ "icon": "vscode", "extensions": ["settings.json", "extensions.json"], "filename": true },
-	],
 
 	"terminal.integrated.scrollback": 100000, //Remember all output
 

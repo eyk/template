@@ -1,6 +1,11 @@
 {
 	"recommendations": [
-		"vscode-icons-team.vscode-icons",
+		"github.copilot",
+		"github.copilot-chat",
+		"ms-vscode.vscode-speech",
+		"pkief.material-icon-theme",
+		"yutengjing.open-in-external-app",
+		"gruntfuggly.todo-tree",
 	],
 	"unwantedRecommendations": [
 
