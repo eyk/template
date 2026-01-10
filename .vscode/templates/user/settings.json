@@ -30,6 +30,9 @@
 	"editor.fontLigatures": false,
 	"editor.stickyScroll.enabled": false,
 	"editor.accessibilitySupport": "off",
+	"editor.wordBasedSuggestions": "off",
+	"editor.insertSpaces": false,
+
 
 	"diffEditor.ignoreTrimWhitespace": false,
 
@@ -60,7 +63,7 @@
 
 	"workbench.editor.empty.hint": "hidden",
 	"workbench.editor.splitInGroupLayout": "vertical",
-	"workbench.startupEditor": "none",
+	"workbench.startupEditor": "readme",
 	"workbench.colorTheme": "Visual Studio Dark",
 	"workbench.secondarySideBar.defaultVisibility": "hidden",
 	"workbench.editorAssociations": {
