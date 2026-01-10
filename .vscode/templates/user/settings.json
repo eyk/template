@@ -162,8 +162,8 @@
 	"geminicodeassist.project": "axiomatic-transit-4pfx5",
 	"geminicodeassist.inlineSuggestions.enableAuto": false,
 
-	"chat.notifyWindowOnResponseReceived": true,
 	"chat.useAgentSkills": true,
+	"chat.notifyWindowOnResponseReceived": true,
 	"chat.agent.maxRequests": 100,
 	"chat.mcp.gallery.enabled": true,
 	"chat.mcp.autostart": "newAndOutdated",
