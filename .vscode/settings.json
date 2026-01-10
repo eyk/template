@@ -6,12 +6,11 @@
 
 	"search.exclude": {},
 
+	"workbench.startupEditor": "readme", //Show README.md on startup
+
 	"editor.wordBasedSuggestions": "off",
 	"editor.insertSpaces": false,
 
-	"workbench.startupEditor": "readme",
-    "workbench.iconTheme": "material-icon-theme",
-
-	"terminal.integrated.scrollback": 10000, //Remember all output
+	"terminal.integrated.scrollback": 100000, //Remember all output
 
 }
