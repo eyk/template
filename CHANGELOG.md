@@ -14,14 +14,13 @@ Types of Changes:
 
 ## [Unreleased]
 
-- `Changed` Projekt zur Nutzung bei der SiteFusion 7-Entwicklung erweitert
-
+- `Added` Foo
 
 ## [0.1.0] - 2021-12-31
 
-- `Added` Foo
+- `Added` Bar
 
 ## Open Issues
 
-[unreleased]: https://bitbucket.org/sitefusion/sfcode/src/develop/
-[0.1.0]: https://bitbucket.org/sitefusion/sfcode/src/0.1.0/
+[unreleased]: https://github.com/eyk/template
+[0.1.0]: https://github.com/eyk/template
